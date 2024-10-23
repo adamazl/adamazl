@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Adam
+<h1 align="left">Hi there 👋, I'm Adam</h1>
+<h3 align="left">Cybersecurity enthusiast, CBBH to-be-certified</h3>
 
 - 🔭 I’m currently working on Hackthebox Academy
 - 🌱 I’m currently learning Certified Bug Bounty Hunter (CBBH) on Hackthebox
