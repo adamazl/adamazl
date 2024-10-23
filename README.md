@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on Hackthebox Academy
 - 🌱 I’m currently learning Certified Bug Bounty Hunter (CBBH) on Hackthebox
+- 📝 Read my hackthebox writeups: https://adamazl.github.io/hackthebox-writeups/
 - 📫 How to reach me: hello@adamaizal.com
 - ⚡ Fun fact: I enjoy the outdoors and videography
 
